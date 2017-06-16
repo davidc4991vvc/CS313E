@@ -2,7 +2,7 @@
 #  Description:         A game that is to be played between a human and the computer. Each is dealt two cards
 #                       and the goal is to get as close to 21 without going over.
 #  Student's Name:      Nicolas Key
-#  Student's UT EID:    nak724
+#  Student's UT EID:    
 #  Course Name:         CS 313E 
 #  Unique Number:       51915
 #
@@ -57,6 +57,7 @@ class Card:
     def __str__(self):
         return self.rank + self.suit
 
+
 class Player:
 
     def __init__(self):
@@ -72,13 +73,9 @@ class Player:
         return myStr
 
 
-
 def showHands(opponent, dealer):
     print ("Dealer shows " + str(dealer.hand[1]) + " faceup.")
     print ("You show " + str(opponent.hand[1]) + " faceup.")
-
-
-
 
 def opponentTurn(cardDeck, dealer, opponent):
     print("You go first")
@@ -126,9 +123,6 @@ def opponentTurn(cardDeck, dealer, opponent):
         else:
             print("That's not a valid input. Only enter a 1 or 2")
         
-
-
-    
 def dealerTurn(cardDeck, dealer, opponent):
     if(opponent.handtotal > 21):
         return
@@ -175,7 +169,7 @@ def dealerTurn(cardDeck, dealer, opponent):
             haveHighAce = False
         print("Dealer points:", dealer.handtotal, "\n")
     
-
+# given
 def main():
     cardDeck = Deck()               # create a deck of 52 cards called "cardDeck"
     print(cardDeck, "\n")           # print the deck so we can see that you built it correctly

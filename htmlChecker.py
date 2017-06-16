@@ -2,7 +2,7 @@
 #  Description:         an "HTML Checker" program that takes as input an HTML file, and produces
 #                       a report indicating whether or not the tags are correctly matched.                       
 #  Student's Name:      Nicolas Key
-#  Student's UT EID:    nak724
+#  Student's UT EID:    
 #  Course Name:         CS 313E 
 #  Unique Number:       51915
 #

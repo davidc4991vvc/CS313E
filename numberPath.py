@@ -1,8 +1,8 @@
 #  File:                numberPath.py
-#  Description:         
+#  Description:         Finds a path through the maze whose sum equals the target.
 #                       
 #  Student's Name:      Nicolas Key
-#  Student's UT EID:    nak724
+#  Student's UT EID:    
 #  Course Name:         CS 313E 
 #  Unique Number:       51915
 #

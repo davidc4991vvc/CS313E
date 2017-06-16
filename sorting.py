@@ -2,7 +2,7 @@
 #  Description:         Testing and comparing the run time of
 #                       5 different sorting algorithms
 #  Student's Name:      Nicolas Key
-#  Student's UT EID:    nak724
+#  Student's UT EID:    
 #  Course Name:         CS 313E 
 #  Unique Number:       51915
 #
