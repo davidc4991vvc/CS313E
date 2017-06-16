@@ -2,7 +2,7 @@
 #  Description:         A role plaing game (RPG) that allows Fighters and Wizards to attack
 #                       each other and fight to the death!
 #  Student's Name:      Nicolas Key
-#  Student's UT EID:    nak724
+#  Student's UT EID:    
 #  Course Name:         CS 313E 
 #  Unique Number:       51915
 #

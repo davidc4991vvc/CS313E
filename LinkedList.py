@@ -2,7 +2,7 @@
 #  Description:         Definition of member funtions for LinkedList(). Perform multiple 
 #                       operations to ordered an unordered linked lists.
 #  Student's Name:      Nicolas Key
-#  Student's UT EID:    nak724
+#  Student's UT EID:    
 #  Course Name:         CS 313E 
 #  Unique Number:       51915
 #

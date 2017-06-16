@@ -1,8 +1,8 @@
 #  File:                Friends.py
-#  Description:         
+#  Description:         Perform multiple operations on a set of friends.
 #                       
 #  Student's Name:      Nicolas Key
-#  Student's UT EID:    nak724
+#  Student's UT EID:    
 #  Course Name:         CS 313E 
 #  Unique Number:       51915
 #

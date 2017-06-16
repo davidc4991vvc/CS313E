@@ -2,7 +2,7 @@
 #  Description:         Creates trees and tests for isomorphism
 #                       Input: "MultiwayTreeInput.txt" - must be even number of lines
 #  Student's Name:      Nicolas Key
-#  Student's UT EID:    nak724
+#  Student's UT EID:    
 #  Course Name:         CS 313E 
 #  Unique Number:       51915
 #

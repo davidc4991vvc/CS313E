@@ -2,7 +2,7 @@
 # Description:          This program prompts the user for how many dice rolls should occur.
 #                       It then records the outcome of each roll and prints a list and a histogram of the results.
 # Student's Name:       Nicolas Key
-# Sudent's EID:         nak724
+# Sudent's EID:         
 # Course Name:          CS 313E
 # Unique Number:        51915
 #
